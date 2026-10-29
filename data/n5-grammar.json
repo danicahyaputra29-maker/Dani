@@ -1,0 +1,5 @@
+[
+{"id":"n5-g-001","mondai":1,"question":"わたしは　まいあさ　パン（　）　たべます。","options":["を","に","で","が"],"answer":0,"explanation":"Objek langsung dari 「たべます」 memakai partikel 「を」."},
+{"id":"n5-g-002","mondai":1,"question":"だいがく（　）　ともだちと　あいました。","options":["で","を","が","へ"],"answer":0,"explanation":"Tempat berlangsungnya aksi memakai 「で」."},
+{"id":"n5-g-003","mondai":2,"question":"わたしは　＿＿＿　＿＿＿　★　＿＿＿　いきました。","options":["きのう","ともだちと","いっしょに","デパートへ"],"answer":2,"explanation":"Susunan benar: きのう → ともだちと → いっしょに → デパートへ. Yang di ★ adalah 「いっしょに」."}
+]

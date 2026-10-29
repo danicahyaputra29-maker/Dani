@@ -1,0 +1,7 @@
+[
+{"id":"n5-v-001","mondai":1,"question":"この　本は　おもしろいです。","underlined":"本","options":["ほん","ぼん","もと","ぼく"],"answer":0,"explanation":"「本」 dibaca 「ほん」. Artinya buku."},
+{"id":"n5-v-002","mondai":1,"question":"きのう　友だちに　会いました。","underlined":"友だち","options":["ともだち","ゆうだち","ともたち","ゆたち"],"answer":0,"explanation":"「友だち」 dibaca 「ともだち」. Artinya teman."},
+{"id":"n5-v-003","mondai":2,"question":"あした　でんしゃで　かいしゃへ　いきます。","underlined":"でんしゃ","options":["電車","電者","雷車","電東"],"answer":0,"explanation":"「でんしゃ」 ditulis 「電車」. Artinya kereta listrik."},
+{"id":"n5-v-004","mondai":3,"question":"あつい　ので　（　）を　あけます。","options":["まど","かさ","くつ","いす"],"answer":0,"explanation":"「まど」 = jendela. Karena panas, jendela dibuka."},
+{"id":"n5-v-005","mondai":4,"question":"ここは　しずかです。","underlined":"しずか","options":["ここは　うるさくないです。","ここは　ひろくないです。","ここは　あかるくないです。","ここは　きれいではないです。"],"answer":0,"explanation":"「しずか」 = tenang, sama dengan 「うるさくない」 (tidak berisik)."}
+]
